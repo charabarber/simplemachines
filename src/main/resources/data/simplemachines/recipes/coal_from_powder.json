@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "coal",
+  "ingredients": [
+    {
+      "item": "simplemachines:powdered_coal"
+    },
+    {
+      "item": "simplemachines:powdered_coal"
+    },
+    {
+      "item": "simplemachines:powdered_coal"
+    },
+    {
+      "item": "simplemachines:powdered_coal"
+    },
+    {
+      "item": "simplemachines:powdered_coal"
+    },
+    {
+      "item": "simplemachines:powdered_coal"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:coal"
+  }
+}

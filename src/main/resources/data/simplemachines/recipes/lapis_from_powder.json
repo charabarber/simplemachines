@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lapis",
+  "ingredients": [
+    {
+      "item": "simplemachines:powdered_lapis"
+    },
+    {
+      "item": "simplemachines:powdered_lapis"
+    },
+    {
+      "item": "simplemachines:powdered_lapis"
+    },
+    {
+      "item": "simplemachines:powdered_lapis"
+    },
+    {
+      "item": "simplemachines:powdered_lapis"
+    },
+    {
+      "item": "simplemachines:powdered_lapis"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:lapis"
+  }
+}

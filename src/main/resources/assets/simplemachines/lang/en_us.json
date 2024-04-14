@@ -1,0 +1,10 @@
+{
+  "item.simplemachines.iron_dust": "Iron Dust",
+  "item.simplemachines.gold_dust": "Gold Dust",
+  "item.simplemachines.copper_dust": "Copper Dust",
+  "item.simplemachines.powdered_coal": "Powdered Coal",
+  "item.simplemachines.powdered_diamond": "Powdered Diamond",
+  "item.simplemachines.powdered_emerald": "Powdered Emerald",
+  "item.simplemachines.powdered_lapis": "Powdered Lapis",
+  "block.simplemachines.macerator": "Macerator"
+}

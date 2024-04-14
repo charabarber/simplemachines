@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "emerald",
+  "ingredients": [
+    {
+      "item": "simplemachines:powdered_emerald"
+    },
+    {
+      "item": "simplemachines:powdered_emerald"
+    },
+    {
+      "item": "simplemachines:powdered_emerald"
+    },
+    {
+      "item": "simplemachines:powdered_emerald"
+    },
+    {
+      "item": "simplemachines:powdered_emerald"
+    },
+    {
+      "item": "simplemachines:powdered_emerald"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:emerald"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond",
+  "ingredients": [
+    {
+      "item": "simplemachines:powdered_diamond"
+    },
+    {
+      "item": "simplemachines:powdered_diamond"
+    },
+    {
+      "item": "simplemachines:powdered_diamond"
+    },
+    {
+      "item": "simplemachines:powdered_diamond"
+    },
+    {
+      "item": "simplemachines:powdered_diamond"
+    },
+    {
+      "item": "simplemachines:powdered_diamond"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:diamond"
+  }
+}
