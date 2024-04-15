@@ -13,16 +13,16 @@ import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
     public static final Block MACERATOR_BLOCK = registerBlock("macerator",
-            new Block(FabricBlockSettings.of(Material.METAL)), ItemGroup.MISC);
+            new Block(FabricBlockSettings.of(Material.METAL)));
 
-    private static Block registerBlock(String name, Block block, ItemGroup tab) {
-        registerBlockItem(name, block, tab);
+    private static Block registerBlock(String name, Block block) {
+        registerBlockItem(name, block);
         return Registry.register(Registry.BLOCK, new Identifier(SimpleMachines.MOD_ID, name), block);
     }
 
-    private static Item registerBlockItem(String name, Block block, ItemGroup tab) {
+    private static Item registerBlockItem(String name, Block block) {
         return Registry.register(Registry.ITEM, new Identifier(SimpleMachines.MOD_ID, name),
-                new BlockItem(block, new FabricItemSettings().group(tab)));
+                new BlockItem(block, new FabricItemSettings().group(ItemGroup.MISC)));
     }
 
     public static void registerModBlocks() {
